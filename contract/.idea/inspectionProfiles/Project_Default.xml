@@ -1,0 +1,161 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="DuplicatedCode" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="GrazieInspection" enabled="false" level="TYPO" enabled_by_default="false" />
+    <inspection_tool class="HttpUrlsUsage" enabled="false" level="WEAK WARNING" enabled_by_default="false">
+      <option name="ignoredUrls">
+        <list>
+          <option value="http://localhost" />
+          <option value="http://127.0.0.1" />
+          <option value="http://0.0.0.0" />
+          <option value="http://www.w3.org/" />
+          <option value="http://json-schema.org/draft" />
+          <option value="http://java.sun.com/" />
+          <option value="http://xmlns.jcp.org/" />
+          <option value="http://javafx.com/javafx/" />
+          <option value="http://javafx.com/fxml" />
+          <option value="http://maven.apache.org/xsd/" />
+          <option value="http://maven.apache.org/POM/" />
+          <option value="http://www.springframework.org/schema/" />
+          <option value="http://www.springframework.org/tags" />
+          <option value="http://www.springframework.org/security/tags" />
+          <option value="http://www.thymeleaf.org" />
+          <option value="http://www.jboss.org/j2ee/schema/" />
+          <option value="http://www.jboss.com/xml/ns/" />
+          <option value="http://www.ibm.com/webservices/xsd" />
+          <option value="http://activemq.apache.org/schema/" />
+          <option value="http://schema.cloudfoundry.org/spring/" />
+          <option value="http://schemas.xmlsoap.org/" />
+          <option value="http://cxf.apache.org/schemas/" />
+          <option value="http://primefaces.org/ui" />
+          <option value="http://tiles.apache.org/" />
+          <option value="http://rozklad.kpi.ua" />
+          <option value="http://i.absurdopedia.net" />
+          <option value="http://homerouter.ehome.net.ua" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyBroadExceptionInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyChainedComparisonsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoreConstantInTheMiddle" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="48">
+            <item index="0" class="java.lang.String" itemvalue="moviepy" />
+            <item index="1" class="java.lang.String" itemvalue="configparser" />
+            <item index="2" class="java.lang.String" itemvalue="timezonefinder" />
+            <item index="3" class="java.lang.String" itemvalue="Pillow" />
+            <item index="4" class="java.lang.String" itemvalue="decorator" />
+            <item index="5" class="java.lang.String" itemvalue="greenlet" />
+            <item index="6" class="java.lang.String" itemvalue="async-timeout" />
+            <item index="7" class="java.lang.String" itemvalue="Babel" />
+            <item index="8" class="java.lang.String" itemvalue="SQLAlchemy" />
+            <item index="9" class="java.lang.String" itemvalue="imageio-ffmpeg" />
+            <item index="10" class="java.lang.String" itemvalue="psycopg2" />
+            <item index="11" class="java.lang.String" itemvalue="numpy" />
+            <item index="12" class="java.lang.String" itemvalue="requests" />
+            <item index="13" class="java.lang.String" itemvalue="frozenlist" />
+            <item index="14" class="java.lang.String" itemvalue="Pygments" />
+            <item index="15" class="java.lang.String" itemvalue="certifi" />
+            <item index="16" class="java.lang.String" itemvalue="urllib3" />
+            <item index="17" class="java.lang.String" itemvalue="pydantic" />
+            <item index="18" class="java.lang.String" itemvalue="proglog" />
+            <item index="19" class="java.lang.String" itemvalue="magic-filter" />
+            <item index="20" class="java.lang.String" itemvalue="aiofiles" />
+            <item index="21" class="java.lang.String" itemvalue="aiogram" />
+            <item index="22" class="java.lang.String" itemvalue="typing-extensions" />
+            <item index="23" class="java.lang.String" itemvalue="attrs" />
+            <item index="24" class="java.lang.String" itemvalue="tqdm" />
+            <item index="25" class="java.lang.String" itemvalue="imageio" />
+            <item index="26" class="java.lang.String" itemvalue="colorama" />
+            <item index="27" class="java.lang.String" itemvalue="charset-normalizer" />
+            <item index="28" class="java.lang.String" itemvalue="aiohttp" />
+            <item index="29" class="java.lang.String" itemvalue="multidict" />
+            <item index="30" class="java.lang.String" itemvalue="yarl" />
+            <item index="31" class="java.lang.String" itemvalue="pytz" />
+            <item index="32" class="java.lang.String" itemvalue="aiosignal" />
+            <item index="33" class="java.lang.String" itemvalue="idna" />
+            <item index="34" class="java.lang.String" itemvalue="pyaes" />
+            <item index="35" class="java.lang.String" itemvalue="PySocks" />
+            <item index="36" class="java.lang.String" itemvalue="Pyrogram" />
+            <item index="37" class="java.lang.String" itemvalue="TgCrypto" />
+            <item index="38" class="java.lang.String" itemvalue="twocaptcha" />
+            <item index="39" class="java.lang.String" itemvalue="config" />
+            <item index="40" class="java.lang.String" itemvalue="uvloop" />
+            <item index="41" class="java.lang.String" itemvalue="okx" />
+            <item index="42" class="java.lang.String" itemvalue="typing_extensions" />
+            <item index="43" class="java.lang.String" itemvalue="pandas" />
+            <item index="44" class="java.lang.String" itemvalue="hexbytes" />
+            <item index="45" class="java.lang.String" itemvalue="async-tkinter-loop" />
+            <item index="46" class="java.lang.String" itemvalue="web3" />
+            <item index="47" class="java.lang.String" itemvalue="openpyxl" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N806" />
+          <option value="N802" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyProtectedMemberInspection" enabled="true" level="INFORMATION" enabled_by_default="true" />
+    <inspection_tool class="PyShadowingBuiltinsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredNames">
+        <list>
+          <option value="format" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyShadowingNamesInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyTypeCheckerInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="telethon.client.telegramclient.TelegramClient.__await__" />
+          <option value="int.is_not" />
+          <option value="moviepy.video.io.VideoFileClip.VideoFileClip.resize" />
+          <option value="moviepy.video.io.VideoFileClip.VideoFileClip.*" />
+          <option value="str.desc" />
+          <option value="int.desc" />
+          <option value="moviepy.video.io.VideoFileClip.VideoFileClip.multiply_speed" />
+          <option value="moviepy.video.io.VideoFileClip.VideoFileClip.time_mirror" />
+          <option value="list.__getitem__" />
+          <option value="huy.A._A__a" />
+          <option value="datetime.datetime.isnot" />
+          <option value="moviepy.video.fx.all.*" />
+          <option value="PIL.Image.Resampling" />
+          <option value="main.Puzzle.path" />
+          <option value="str.decode" />
+          <option value="int.__await__" />
+          <option value="hexbytes.main.HexBytes.__await__" />
+          <option value="uvloop" />
+          <option value="database.base.Base.message_id" />
+          <option value="database.base.Base.subscriptions" />
+          <option value="database.base.Base.*" />
+          <option value="database.models.Channel.Channel.subscriptions" />
+          <option value="database.models.User.User.channels" />
+          <option value="web3.main.Web3.zksync" />
+          <option value="tuple.settings" />
+          <option value="tuple.*" />
+          <option value="settings.Settings.from_json" />
+          <option value="pyautogui.confirm" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnusedLocalInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="SpellCheckingInspection" enabled="false" level="TYPO" enabled_by_default="false">
+      <option name="processCode" value="true" />
+      <option name="processLiterals" value="true" />
+      <option name="processComments" value="true" />
+    </inspection_tool>
+    <inspection_tool class="SqlResolveInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="SqlWithoutWhereInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+  </profile>
+</component>
